@@ -5,7 +5,7 @@
 
 - 🔭&nbsp;&nbsp;Mi meta: **Expandir mis conocimientos y habilidades como desarrollador**
 
-- 👨‍💻&nbsp;&nbsp;Algunos de mis proyectos se encuentran en mi repositorio aqui en github
+- 👨‍💻&nbsp;&nbsp;Algunos de mis proyectos se encuentran aquí, en mi repositorio GitHub.
 
 - 📫&nbsp;&nbsp;Puedes contactarme **marcos.saira.95@gmail.com**
 
